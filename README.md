@@ -1,2 +1,2 @@
 # citydistant
-Calculating the distance of two city by Latitude and longitude. A simple golang practice
+Calculate the distance between two citys according to latitude and longitude. A simple practice of golang.
